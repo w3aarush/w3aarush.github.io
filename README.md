@@ -16,20 +16,20 @@ Hi! I'm an aspiring data scientist enrolled in the MCA program at {place_holder}
 ## 📊 Projects
 
 ### 🤖 Chatbot Development
-- **[chatbotx/](chatbotx/)**: Implementation of conversational AI chatbots using Python. Includes versions 2.0 and 2.1 with data-driven responses from CSV files. Explores basic NLP and dialogue systems.
+- **[chatbotx/](https://github.com/w3aarush/chatbotx)**: Implementation of conversational AI chatbots using Python. Includes versions 2.0 and 2.1 with data-driven responses from CSV files. Explores basic NLP and dialogue systems.
 
 ### 🌍 Data Science Explorations
-- **[datascienceGFG/](datascienceGFG/)**: Collection of Jupyter notebooks covering data science fundamentals:
+- **[datascienceGFG/](https://github.com/w3aarush/datascienceGFG/)**: Collection of Jupyter notebooks covering data science fundamentals:
   - Air Quality Index (AQI) analysis of India
   - NumPy tutorials and operations
   - Data reading from files (text processing)
   - Working with real datasets like adult census data and mushroom classification
 
 ### 📱 Spam Classification Web App
-- **[NOU-Project-2023/](NOU-Project-2023/)**: A Flask-based web application for SMS spam detection. Features a machine learning model trained on the SMS Spam Collection dataset, with a clean UI for real-time predictions.
+- **[NOU-Project-2023/](https://github.com/w3aarush/NOU-Project-2023/)**: A Flask-based web application for SMS spam detection. Features a machine learning model trained on the SMS Spam Collection dataset, with a clean UI for real-time predictions.
 
 ### 🧪 Playground Experiments
-- **[playground/](playground/)**: A sandbox for various data science experiments:
+- **[playground/](https://github.com/w3aarush/playground/)**: A sandbox for various data science experiments:
   - **chatbot_semantic/**: Semantic chatbot using embeddings for better context understanding
   - **dbscan/**: Implementation of DBSCAN clustering algorithm with Euclidean distance calculations
   - **embedding/**: Experiments with text embeddings and vector representations
@@ -37,7 +37,7 @@ Hi! I'm an aspiring data scientist enrolled in the MCA program at {place_holder}
   - **tensorflow/**: Introduction to TensorFlow for deep learning basics
 
 ### 📚 Machine Learning Learning Path
-- **[python-ml-learning/](python-ml-learning/)**: Ongoing projects and exercises in machine learning algorithms, model training, and evaluation techniques.
+- **[python-ml-learning/](https://github.com/w3aarush/python-ml-learning/)**: Ongoing projects and exercises in machine learning algorithms, model training, and evaluation techniques.
 
 ## 🚀 Getting Started
 
@@ -45,8 +45,8 @@ Each project includes its own README with setup instructions. Most require Pytho
 
 ## 📫 Connect With Me
 
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- **GitHub**: [Checkout my Github](https://github.com/w3aarush)
+- **LinkedIn**: [Aarush Singh](https://linkedin.com/in/aarushsingh)
 - **Email**: your.email@example.com
 
 ---
