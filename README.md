@@ -1,15 +1,13 @@
-# Data Science Portfolio
-
 ## 👋 Welcome to My Data Science Journey
 
-Hi! I'm an aspiring data scientist enrolled in the MCA program at {place_holder} university (session 2024-2026). I'm passionate about data science, machine learning, and building intelligent systems. This portfolio showcases my learning projects and experiments in Python, data analysis, and AI. While I'm still building my expertise, these repositories reflect my hands-on exploration of various data science concepts and tools.
+Hi there, My name is Aarush Singh. I'm an aspiring data scientist enrolled in the MCA program at Patna University (session 2024-2026). I'm passionate about data science, machine learning, and building intelligent systems. This portfolio showcases my learning projects and experiments in Python, data analysis, and AI. While I'm still building my expertise, these repositories reflect my hands-on exploration of various data science concepts and tools.
 
 ## 🛠️ Skills & Technologies
 
-- **Programming Languages**: Python
+- **Programming Languages**: Python, C, Java
 - **Data Science Libraries**: NumPy, Pandas, Scikit-learn, TensorFlow
 - **Machine Learning**: Supervised/Unsupervised Learning, NLP, Clustering (DBSCAN)
-- **Web Development**: Flask (for ML model deployment)
+- **Web Development**: HTML, JavaScript, Flask (for ML model deployment)
 - **Tools & Frameworks**: Jupyter Notebooks, LangChain, Embeddings
 - **Data Handling**: CSV processing, Text analysis, Dataset exploration
 
@@ -47,7 +45,7 @@ Each project includes its own README with setup instructions. Most require Pytho
 
 - **GitHub**: [Checkout my Github](https://github.com/w3aarush)
 - **LinkedIn**: [Aarush Singh](https://linkedin.com/in/aarushsingh)
-- **Email**: your.email@example.com
+- **Email**: aarush2k2@gmail.com
 
 ---
 
